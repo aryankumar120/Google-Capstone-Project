@@ -67,8 +67,3 @@ Performed exploratory data analysis (EDA) & visualizations in R & Tableau.
 
 # 🚀 Conclusion
 This project showcases my ability to analyze real-world business problems using data-driven insights and visual storytelling. By leveraging SQL, R, and Tableau, I provided clear recommendations for customer conversion & market expansion.
-
-📢 Check out my analysis and interactive dashboards in the repository!
-
-🔗 View Project on GitHub ()
-
