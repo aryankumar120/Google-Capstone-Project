@@ -1,4 +1,4 @@
-## 📊 Google Data Analytics Professional Certificate Capstone Project
+# 📊 Google Data Analytics Professional Certificate Capstone Project
 🚴‍♂️ Cyclistic Bike-Share & 📱 Bellabeat Smart Devices
 # 🔥 Overview
 This project is part of the Google Data Analytics Professional Certificate, where I applied SQL, R, and Tableau to analyze two real-world business scenarios:
